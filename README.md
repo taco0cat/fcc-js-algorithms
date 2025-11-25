@@ -3,7 +3,6 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![FreeCodeCamp](https://img.shields.io/badge/FreeCodeCamp-%23123.svg?style=for-the-badge&logo=freecodecamp&logoColor=white)
 ![GitHub last commit](https://img.shields.io/github/last-commit/taco0cat/fcc-js-algorithms?style=for-the-badge&color=blue)
-![Repo Size](https://img.shields.io/github/repo-size/taco0cat/fcc-js-algorithms?style=for-the-badge&color=green)
 
 Welcome to my **JavaScript Data Structures & Algorithms** repository. This collection contains my solutions and practice scripts from the **FreeCodeCamp** JavaScript curriculum.
 
